@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="row">
+        <div class="col xs m6">  
+    </div>
+    <div class="card-panel">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, itaque!</p>
+    </div>
+</div>
+
+http://127.0.0.1:5500/services.html

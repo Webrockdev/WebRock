@@ -1,0 +1,105 @@
+body{
+    font-family: sans-serif;
+}
+
+header h1{
+    padding-top: 300px;
+    text-align: center;
+    color: white;
+}
+
+ h2{
+    text-align: center;
+    font-size: 35px;
+    font-weight:600;
+    line-height: 42px;
+    padding-bottom: 0px;
+    
+
+}
+
+p{
+    font-size: 18px;
+    line-height: 30px;
+    color: #808080;
+}
+
+
+.about-us{
+    background: url('../img/home-parallax-background-light1.png'); 
+}
+
+.about-us p{
+    padding-bottom: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000a2;
+}
+.coll{
+    margin-top: 30px;
+}
+
+.mission-vision{
+    background: url('../img/background-light-grey.png'); 
+}
+#mission-section {
+   line-height: 25px;
+   text-align: right;
+   border-right: 1px solid #b4b4b4d8;
+}
+
+
+
+.values{
+  
+    background: url('../img/home-parallax-background-light1.png');   
+}
+
+#values p{
+  font-size: 20px;
+}
+
+#values .row{
+    padding-top: 90px;
+}
+
+#values .col{
+     padding-top: 50px; 
+}
+
+#what-we-do{
+    
+    text-align: center;
+    background-color: #f7fbfe
+    
+}
+
+#what-we-do p{
+    
+}
+
+#what-we-do .card-panel{
+     height: 300px;
+     box-shadow: 1px 2px;
+}
+
+#team{
+    text-align: center;
+    padding-top: 40px;
+}
+
+#team h1{
+    text-align: center;
+}
+
+#team .card-panel{
+    height: 250px;
+    width: 250px;
+}
+
+#team img{
+    border-radius: 90%;
+    height: 100px;
+    width: 100px;
+}
+

@@ -1,0 +1,79 @@
+h3,h4{
+   color: #6f7a82;
+}
+
+header h1{
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+}
+
+p,li{
+  color:#6f7a82;
+font-size: 18px;
+font-weight:100;
+gap:normal;
+line-height:31px;
+margin:0px 0px 20px;
+}
+
+li:hover{
+    color: #95b4e0;;
+}
+
+.m8-col{
+    margin-top: 40px ;
+}
+
+ section img{
+    padding-top: 100px;
+}
+
+
+.web{
+    background-image: url(../img/home-parallax-background-light1.png);
+}
+
+ .web img{
+    
+    width: 545px;
+    
+    
+}
+
+.software{
+    background-image: url(../img/background-light-grey.png);
+
+}
+
+.software img{
+    width: 540px;
+    
+}
+
+.cyber{
+
+    background-image: url(../img/home-parallax-background-light1.png);
+}
+
+.cyber img{
+    width: 350px;
+}
+
+.design{
+    background-image: url(../img/background-light-grey.png);
+}
+
+.design img{
+    width: 450px;
+}
+ 
+.footer{
+    padding-top: 50px;
+}
+
+.footer li{
+    
+    
+    margin-left: 50px ;
+}

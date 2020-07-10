@@ -1,0 +1,22 @@
+.container-fluid {
+  background-color: #e6faff;
+}
+
+.col-lg-6 {
+  border:#66e0ff solid 1px;
+  border-radius: 5%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: #99ebff;
+}
+
+footer {
+  background-color: #ccf5ff;
+  padding-top:40px;
+  padding-bottom:40px;
+
+}
+
+footer .list-group-item {
+  background-color: #ccf5ff;
+}

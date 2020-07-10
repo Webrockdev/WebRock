@@ -1,0 +1,88 @@
+<nav class="transparent">
+    <div class="nav-wrapper">
+      <div class="containerr">
+        <a href="#" class="brand-logo">WEBROCK</a>
+        <a class="button-collapse" data-activates="mobile-nav" href="#">
+          <i class="material-icons">menu</i>
+        </a>
+        <ul class="right hide-on-med-and-down">
+          <li>
+            <a href="#">Home</a>
+          </li>
+          <li>
+            <a href="about.html">About</a>
+          </li>
+          <li>
+            <a href="services.html">Services</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+
+
+        </ul>
+        <ul class="side-nav" id="mobile-nav">
+          <li>
+            <a href="#">Home</a>
+          </li>
+          <li>
+            <a href="#">About</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="show-case">
+    <div class="">
+      <div class="show-case-content">
+        <h1>
+          Welcome To The Hub Of Developers
+        </h1>
+        <a href="#" class="btn orange darken-2 waves-effect waves-dark"> Know more </a>
+      </div>
+    </div>
+
+  </div>
+</header>
+<!-- Services section -->
+<section class="services background-color">
+  <div class="containement">
+    <h2>Services</h2>
+    <div class="row">
+      <div class="col s12 m3 hvr-grow">
+        <img src="img/icons8-web-64 (1).png" alt="">
+        <h4>Web</h4>
+        <p>We specialize in the development of large and medium-sized sites, web applications, and portals with
+          complex and rich functionality.
+          We can cope with heavy loads and are happy to find the solution.</p>
+      </div>
+      <div class="col s12 m3 hvr-grow">
+
+        <img src="img/icons8-medical-mobile-app-64.png" alt="">
+        <h4>Mobile</h4>
+
+        <p>We help our clients deliver world-class, beautiful, engaging iOS and Android apps.
+          Our expert team knows these platforms inside out and can help you build apps your customers love and use.
+        </p>
+      </div>
+      <div class="col s12 m3 hvr-grow">
+        <img src="img/icons8-security-configuration-64.png" alt="">
+        <h4>Cyber Security</h4>
+        <p>Minimally, an improvement in your security posture keeps confidential, classified,
+          and proprietary business materials out of the hands of competitors.
+        </p>
+      </div>
+      <div class="col s12 m3 hvr-grow">
+        <img src="img/icons8-design-64.png" alt="">
+        <h4>UI/UX Design</h4>
+        <p>Creative, attractive, engaging and usable interfaces are the soul of any designs.
+          We will help design custom user interfaces based on your business requirements
+          for any of your device platforms.
+        </p>
+      </div>
+    </div>
+  </div>
